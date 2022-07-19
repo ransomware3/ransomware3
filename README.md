@@ -1,10 +1,10 @@
 ### 🧙‍♂️ Olá, eu sou o Natan Iori.
 ##
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block"><br>
   <a href="https://github.com/ransomware3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ransomware3&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="1800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransomware3&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransomware3&layout=compact&langs_count=7&theme=merko"/>
 </div>
  
 <div style="display: inline_block"><br>
