@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/ransomware3">
    <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api?username=ransomware3&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransomware3&layout=compact&langs_count=6&theme=merko"/>
+   <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransomware3&layout=compact&langs_count=6&theme=merko"/><br>
    <img align="right" alt="Natan-pic" height="150" style="border-radius:50px;" src="https://iphoneswallpapers.com/wp-content/uploads/2021/06/Anime-Boy-Masked.jpg">
 
 </div>
@@ -18,8 +18,6 @@
 ## 
 <div> 
   <a href="https://www.instagram.com/iori.natan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/son-natan-9b5a3a241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ransomware3/ransomware3/blob/output/github-contribution-grid-snake.svg)
