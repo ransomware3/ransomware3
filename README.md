@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/ransomware3">
    <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api?username=ransomware3&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransomware3&layout=compact&langs_count=6&theme=merko"/><br>
+   <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransomware3&layout=compact&langs_count=6&theme=merko"/>
    <img align="right" alt="Natan-pic" height="150" style="border-radius:50px;" src="https://iphoneswallpapers.com/wp-content/uploads/2021/06/Anime-Boy-Masked.jpg">
 
 </div>
