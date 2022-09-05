@@ -1,4 +1,4 @@
-## Olá eu sou o Natan. Seja bem vindo(a)! 😁
+## Olá eu sou o Natan.😁
 
  <div>
    <a href="https://github.com/ransomware3">
@@ -11,6 +11,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
  <br> 
+ 
+ ### Veja minhas redes!
 <div> 
   <a href="https://www.instagram.com/iori.natan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/son-natan-9b5a3a241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
