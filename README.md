@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/ransomware3">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ransomware3&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransomware3&layout=compact&langs_count=6&theme=merko"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ransomware3&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransomware3&layout=compact&langs_count=6&theme=merko"/>
    <img align="right" alt="Natan-pic" height="150" style="border-radius:50px;" src="https://iphoneswallpapers.com/wp-content/uploads/2021/06/Anime-Boy-Masked.jpg">
 </div>
 <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
- <br>
+ <br> 
  
 ## 
 <div> 
