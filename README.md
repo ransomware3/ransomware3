@@ -15,7 +15,7 @@
  ### Veja minhas redes!
 <div> 
   <a href="https://www.instagram.com/iori.natan_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natan-iori-baldo-9b5a3a241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/natan-iori-baldo-9b5a3a241/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ransomware3/ransomware3/blob/output/github-contribution-grid-snake.svg)
 
