@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e31010&height=180&section=header&text=Front-end%20Developer&fontSize=30&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e31010&height=180&section=header&text=Full%20Stack%20Developer&fontSize=30&fontColor=fff"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e31010&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Natan+Iori;Tenho+24+anos;Sou+de+SP/Brasil;Estudo+desenvolvimento+web+Front+End;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
