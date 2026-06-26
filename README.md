@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e31010&height=180&section=header&text=Front-end%20Developer&fontSize=30&fontColor=fff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e31010&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Natan+Iori;Tenho+21+anos;Sou+de+SP/Brasil;Estudo+desenvolvimento+web+Front+End;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e31010&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+Natan+Iori;Tenho+24+anos;Sou+de+SP/Brasil;Estudo+desenvolvimento+web+Front+End;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ransomware3&show_icons=true&count_private=true&hide_border=true&title_color=e31010&icon_color=e31010&text_color=c9d1d9&bg_color=0d1117" alt="Natan Iori github stats" /> 
@@ -44,10 +44,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ransomware3}/count.svg" /></p> 
-<br></div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e31010&height=120&section=footer"/>
